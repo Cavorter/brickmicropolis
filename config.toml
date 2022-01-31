@@ -1,0 +1,33 @@
+baseURL = "https://brickmicropolis.com"
+disablePathToLower = true
+languageCode = "en-us"
+title = "Brick Micropolis"
+theme = "docter"
+
+[params]
+  # the name of your project and a link back to the home page
+  home = "Brick Micropolis"
+  # A small snippet of text above the sidebar:
+  # subtitle = ""
+
+  author = "Nathan Stohlmann"
+  author_url= "https://cavort.org"
+
+  # Point readers to your repo and invite them to edit pages 
+  repo_host = "GitHub"
+  repo = ""
+
+  # Add a reference to a logo, which will appear in the top right
+  # logourl = ""
+  # logoalt = ""
+
+  # Mention your hosting provider 
+#   hosted_on = "hosting provider"
+#   hosted_on_url= "#"
+
+  # main sections
+  # change the main section to set the directory where the top articles are sourced
+  mainSections = ["standard"]
+
+  # brand color
+  # brand_color = "#7300ac"
